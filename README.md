@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **generating illustration with AI for novels**
 
-- 🌱 I’m currently learning **how to properly setup a work environment, find a workflow and taking multiple CS/Applied Maths courses**
+- 🌱 I’m currently learning **webdev and taking multiple CS/Applied Maths courses**
 
-- 👯 I’m in a group Project **in NLP**
+- 👯 Was in a group Project **in NLP**
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/Shaamallow)
 
@@ -16,6 +16,8 @@
 - 📫 How to reach me **eyal.benaroche@gmail.com**
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/eyal-benaroche/)
+
+- 🗾 Intern at Fujitsu in Tokyo starting from 05/06
 
 - ⚡ Fun fact **I know how to make a droplet sound with my mouth**
 
