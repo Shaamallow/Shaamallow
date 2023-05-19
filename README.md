@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GITHUB](https://github.com/Shaamallow)
 
-- 🧠 Want to learn (or get better at) Webdev and AI stuff
+- 🧠 Want to get better at Webdev and AI stuff
 
 - 💬 Ask me about **CS stuff, Volleyball, Manga, whatever I like all of them**
 
