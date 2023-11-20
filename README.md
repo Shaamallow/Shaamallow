@@ -16,4 +16,4 @@ Major in Computer Science, specification in Computer Vision.
 - Volleyball Player (Captain and Setter of Ecole Polytechnique's volleyball team)
 - LighNovel reader
 
-Learn more about me here : [Shaamallow.com](https://me.shaamallow.com)
+Learn more about me here : [Shaamallow.com](https://shaamallow.com)
