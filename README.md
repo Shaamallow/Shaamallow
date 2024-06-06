@@ -17,6 +17,6 @@ Currently working at [Clipdrop.co](https://Clipdrop.co)
 - Learning WebDev for fun
 - Self-hosting enthusiast
 - Volleyball Player :volleyball:
-- LighNovel reader
+- LightNovel reader
 
 Learn more about me here : [Shaamallow.com](https://shaamallow.com)
