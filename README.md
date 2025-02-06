@@ -2,11 +2,11 @@
 
 I am a **4th year student** at [École Polytechnique](https://www.polytechnique.edu/), currently studying **Computer Science** (_optimization_) at [Mines Paris](https://www.minesparis.psl.eu/). Major in Computer Science (_AI_) with a specialization in **Computer Vision**.
 
-Currently working on a **Blender Texturing Diffusion plugin**
+Currently learning **Rust** and **GPU-Programming**
 
 ## Experience
 
-- Research Intern at [Clipdrop.co](https://Clipdrop.co) 🇫🇷 (April 2024 - September 2024)
+- Research Intern at [Clipdrop](https://Clipdrop.co) 🇫🇷 (April 2024 - September 2024)
 - Research Intern at [Fujitsu Limited](https://www.fujitsu.com/global/about/research/) 🇯🇵 (Summer 2023)
 - System Administrator at [Binet Réseau](https://br.binets.fr) 🇫🇷 (2022 - 2023)
 
@@ -38,12 +38,16 @@ _Technologies I am comfortable with:_
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="20" style="margin-bottom: -5px;" alt="Pytorch Logo">
 </a>
 
+<a href="https://www.rust-lang.org/">
+    <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" height="20" style="margin-bottom: -5px;" alt="OpenCV Logo">
+</a>
+
 <a href="https://opencv.org/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="20" style="margin-bottom: -5px;" alt="OpenCV Logo">
 </a>
 
 <a href="https://fastapi.tiangolo.com/">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="20" style="margin-bottom: -5px;" alt="FastAPI Logo">
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" height="20" style="margin-bottom: -5px;" alt="FastAPI Logo">
 </a>
 
 <a href="https://blender.org/">
